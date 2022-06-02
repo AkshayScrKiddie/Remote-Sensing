@@ -1,6 +1,6 @@
 - The R classification script is downloaded from NASA Arset tutorials and modified accordingly.
 
--Due to very large size of geopackage images, they are not uploaded here.
+-Due to very large size of geopackage images and libraries, they are not uploaded here. The index.html must be modified to correct paths for library files.
 
 -User requires to run local server such as tomcat 9 and modify the html file accordingly (such as modifying the URL 
 path of layers published in geoserver).
